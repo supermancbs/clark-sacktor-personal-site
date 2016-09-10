@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import { Carousel, Image, Iframe } from 'react-bootstrap'
+import { Carousel, Image } from 'react-bootstrap'
 
 class Portfolio extends Component{
   render(){

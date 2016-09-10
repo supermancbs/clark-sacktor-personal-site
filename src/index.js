@@ -1,5 +1,3 @@
-import App from './App';
-
 // Import CSS
 import './index.css';
 

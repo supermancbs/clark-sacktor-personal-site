@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import { Grid, Row, Col, Image, Thumbnail, Button } from 'react-bootstrap'
+import { Grid, Row, Col, Thumbnail } from 'react-bootstrap'
 
 class About extends Component{
   render(){
