@@ -11,7 +11,7 @@ class Portfolio extends Component{
       <Carousel.Caption>
         <div className="bg-primary">
           <div className="lead">
-            <h3>Feed Me</h3>
+            <a href="https://github.com/gracejuster/babysitters-club-react"><h3>Feed Me</h3></a>
             <p>
                 Single page recipe search engine based off of the user’s available ingredients.
                 Built a pure JavaScript MVC web application to find recipes based off of imputed ingredients.
