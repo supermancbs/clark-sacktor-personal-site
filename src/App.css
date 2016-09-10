@@ -18,6 +18,13 @@
   font-size: large;
 }
 
+
+.carousel-text {
+  font-size: large;
+  color: black;
+}
+
+
 @keyframes App-logo-spin {
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
