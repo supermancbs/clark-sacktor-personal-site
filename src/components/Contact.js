@@ -4,7 +4,7 @@ class Contact extends Component{
   render(){
     return(
       <div>
-      Contact Clark
+      I can be reached via email at clark.sacktor@gmail.com.
 
 
       </div>

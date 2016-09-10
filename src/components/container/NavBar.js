@@ -12,7 +12,7 @@ class NavBar extends Component{
       <Navbar >
         <Navbar.Header>
           <Navbar.Brand>
-            Clark
+            Clark Sacktor
           </Navbar.Brand>
         </Navbar.Header>
         <Nav bsStyle="pills">
