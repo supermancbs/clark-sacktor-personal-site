@@ -19,7 +19,7 @@ class Portfolio extends Component{
                 Created a website that displays recipes based off of user’s time preference, and ingredient input.
                 Front end used Full Page JS library for slide creation, Handlebars, and Bootstrap.
             </p>
-            <p><a className="btn btn-primary" target="_blank" href="https://learn.co/supermancbs/resume"> Github</a></p>
+            <p><a className="btn btn-primary" target="_blank" href="https://github.com/talgoldfus/feedme"> Github</a></p>
           </div>
         </div>
       </Carousel.Caption>
@@ -37,6 +37,7 @@ class Portfolio extends Component{
              Front end used React.js with reuseable presentational and container component pattern.
              Used redux to manage react data and structure data flow.
           </p>
+          <p><a className="btn btn-primary" target="_blank" href="https://github.com/gracejuster/babysitters-club-react"> Github</a></p>
           </div>
         </div>
       </Carousel.Caption>
@@ -54,6 +55,7 @@ class Portfolio extends Component{
          Developed messaging and comment platform for student feedback.
          Front end used HTML 5 and Bootstrap.
         </p>
+        <p><a className="btn btn-primary" target="_blank" href="https://github.com/jonalexander/flatirontasks"> Github</a></p>
         </div>
       </div>
       </Carousel.Caption>
